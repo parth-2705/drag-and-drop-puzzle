@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background:#6b6b69;
+  color:white;
+}
+
+.info {
+  position:relative;
+  font-family:Arial;
+  margin:10px;
+  text-align:center;
+  border-radius:5px;
+  font-size:15px;
+}
+
+#title {
+  font-size:20px;
+}
+
+#rest2 {
+  font-size:13px;
+}
+
+.drop {
+  position:relative;
+  height: 400px;
+  width: 120px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+#text {
+  width:1236px;
+  height:400px;
+  background:black;
+  margin:auto;
+  padding: 0;
+}
+
+#images {
+  width: 100%
+}
+
+
+
+#drag1,
+#drag2,
+#drag3,
+#drag4,
+#drag5,
+#drag6,
+#drag7,
+#drag8,
+#drag9,
+#drag10 {
+  height: 10px;
+  width: 120px;
+  padding: 0;
+  display: inline-block;
+}
+
